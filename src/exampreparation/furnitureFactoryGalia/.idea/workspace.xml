@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0f5ce45d-659f-4275-9111-6d5e909ac35d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2iB3cYMlMOPu01zlGFr5vIegq3E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.T00_1ValidateFactoryExists and 3 more.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.T010ValidateAddDelicacyMethodWithInvalidData.validateMethod.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.T01ValidateBaseFactoryFields and 10 more.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.T01ValidateBaseFactoryFields and 12 more.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.T01ValidateBuildFactoryMethod and 15 more.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.T03ValidateBaseWorkshopMethods.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.T03ValidateBaseWorkshopMethods.validateClassMethods.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.T03ValidateBuildWorkshopMethod.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.T04ValidateGetFactoryByNameMethod.validateGetFactoryByNameMethod.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.T06ValidateAddWorkshopToFactoryMethod.validateSwitchLightsMethod.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.T07ValidateAddWorkshopInvalidTypeToFactoryMethod.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.T07ValidateAddWorkshopInvalidTypeToFactoryMethod.testAddWorkshopToIncompatibleFactory.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.T07ValidateAddWorkshopInvalidTypeToFactoryMethod.validateAddWorkshopToFactoryMethod.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.T07ValidateAddWorkshopInvalidTypeToFactoryMethod.validateSwitchLightsMethod.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.T07_ValidateAddWorkshopToFactoryMethod.validateSwitchLightsMethod.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.T08.validateAddAreaMethodWithLandArea.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.T08ValidateGetFurnitureMethod.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.T08ValidateGetFurnitureMethod.validateGetFurnitureMethod.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.T09ValidateBuildWorkshopWithInvalidWoodQuantityMethod.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.T09ValidateBuildWorkshopWithInvalidWoodQuantityMethod.testAddWorkshopToIncompatibleFactory.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.T10ValidateBuildWorkshopWithExistingWorkshopMethod.testAddWorkshopThatIsAlreadyAddedToFactory.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.T10ValidateBuildWorkshopWithExistingWorkshopMethod.testAddWorkshopToIncompatibleFactory.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.T10ValidateInterfaceCountMethods.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.T10ValidateInterfaceCountMethods.validateClassMethods.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.T11ValidateTypesExist.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.T11ValidateTypesExist.validateTypesExist.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.T14ValidateGetReportMethod.testGetReport.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TESTaddWorkshopToRepository.testAddWorkshop.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TESTaddWrongWorkshop.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Documents/JavaOOPRetake14Aug2024/Battleships&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\JavaOOPRegular10Aug2024\FurnitureFactory\src\test\java\BusinessLogicTests" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="BusinessLogicTests" />
+      <recent name="HighQualityStructureTests" />
+      <recent name="ZeroTests" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="furnitureFactory.Main" />
+      <module name="FurnitureFactory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="furnitureFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f5ce45d-659f-4275-9111-6d5e909ac35d" name="Changes" comment="" />
+      <created>1718950222808</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718950222808</updated>
+      <workItem from="1719397685470" duration="26246000" />
+      <workItem from="1720424633328" duration="10739000" />
+      <workItem from="1720460059785" duration="7456000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/furnitureFactory/entities/production/ProductionImpl.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/furnitureFactory/entities/production/ProductionImpl.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/furnitureFactory/entities/production/ProductionImpl.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/furnitureFactory/entities/production/ProductionImpl.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/BusinessLogicTests/T05ValidateBuyWoodForFactoryMethod.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/BusinessLogicTests/T05ValidateBuyWoodForFactoryMethod.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/BusinessLogicTests/T05ValidateBuyWoodForFactoryMethod.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/BusinessLogicTests/T05ValidateBuyWoodForFactoryMethod.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/BusinessLogicTests/T04ValidateGetFactoryByNameMethod.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/furnitureFactory/Main.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
